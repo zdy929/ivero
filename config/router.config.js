@@ -1,8 +1,6 @@
-export default [
-  {
+export default [{
     path: '/',
     routes: [
-      { path: '/', component: './detail', title: '通知公告' },
+        { path: '/', component: './detail', title: '通知公告' },
     ],
-  },
-]
+}, ]

@@ -1,9 +1,11 @@
-import React, { useState, useEffect, useRef } from 'react'
-import './styles.less'
+import React from 'react';
 
-// 提交 修改 都是 post
-export default function Detail (props) {
+function Detail() {
   return (
-    <div>detail</div>
-  )
+    <div>
+      
+    </div>
+  );
 }
+
+export default Detail;
